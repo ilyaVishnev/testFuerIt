@@ -3,6 +3,7 @@ package ru;
 import java.util.Arrays;
 import java.util.*;
 
+
 public class Pyramid {
     public String pyramidBuild(List<Integer> array) throws Exception {
         int h = 1;
